@@ -1,0 +1,14 @@
+C:\Users\Fabricio Diaz\source\repos\text file program\bin\Debug\netcoreapp3.1\text file program.exe
+C:\Users\Fabricio Diaz\source\repos\text file program\bin\Debug\netcoreapp3.1\text file program.deps.json
+C:\Users\Fabricio Diaz\source\repos\text file program\bin\Debug\netcoreapp3.1\text file program.runtimeconfig.json
+C:\Users\Fabricio Diaz\source\repos\text file program\bin\Debug\netcoreapp3.1\text file program.runtimeconfig.dev.json
+C:\Users\Fabricio Diaz\source\repos\text file program\bin\Debug\netcoreapp3.1\text file program.dll
+C:\Users\Fabricio Diaz\source\repos\text file program\bin\Debug\netcoreapp3.1\text file program.pdb
+C:\Users\Fabricio Diaz\source\repos\text file program\obj\Debug\netcoreapp3.1\text file program.csproj.AssemblyReference.cache
+C:\Users\Fabricio Diaz\source\repos\text file program\obj\Debug\netcoreapp3.1\text file program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabricio Diaz\source\repos\text file program\obj\Debug\netcoreapp3.1\text file program.AssemblyInfoInputs.cache
+C:\Users\Fabricio Diaz\source\repos\text file program\obj\Debug\netcoreapp3.1\text file program.AssemblyInfo.cs
+C:\Users\Fabricio Diaz\source\repos\text file program\obj\Debug\netcoreapp3.1\text file program.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio Diaz\source\repos\text file program\obj\Debug\netcoreapp3.1\text file program.dll
+C:\Users\Fabricio Diaz\source\repos\text file program\obj\Debug\netcoreapp3.1\text file program.pdb
+C:\Users\Fabricio Diaz\source\repos\text file program\obj\Debug\netcoreapp3.1\text file program.genruntimeconfig.cache
